@@ -62,7 +62,7 @@ function Categories({ data }) {
           </button>
         </div>
       </div>
-      <div className="flex flex-wrap justify-between mt-20">
+      <div className="flex flex-wrap justify-between mt-20 max-lg:justify-center gap-10">
         {!data.length ? (
           <img className="m-auto" src="/images/search.png" alt="category" />
         ) : null}
