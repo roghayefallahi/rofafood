@@ -9,7 +9,7 @@ function Banner() {
         </h2>
         <p className="font-medium my-4 ">Food Delivery and Takeout!</p>
         <span className="text-gray-500 lg:text-justify">
-          BotoFood is an online food ordering and delivery platform launched by
+        RofaFood is an online food ordering and delivery platform launched by
           Uber in 2014. Meals are delivered by couriers using cars, scooters,
           bikes, or on foot.
         </span>
