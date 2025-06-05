@@ -10,11 +10,11 @@ function Layout({ children }) {
           </Link>
         </div>
         <div>
-          <Link href="menu" className="ml-[15px] text-[dimgrey] font-medium ">
+          <Link href="/menu" className="ml-[15px] text-[dimgrey] font-medium ">
             Menu
           </Link>
           <Link
-            href="categories"
+            href="/categories"
             className="ml-[15px] text-[dimgrey] font-medium "
           >
             Categories
